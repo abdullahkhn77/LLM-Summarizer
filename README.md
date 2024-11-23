@@ -53,7 +53,7 @@ This project is an AI-powered video summarizer designed specifically for YouTube
 
 1. Clone the repository:
 ```
-git clone https://github.com/siddharthsky/ai-video-summarizer-and-timestamp-generator-LLM-p.git
+git clone https://github.com/abdullahkhn77/LLM-Summarizer
 ```
 2. Navigate to the project directory:
 ```
@@ -90,4 +90,3 @@ Contributions are welcome from the community!, Whether it's feedback, suggestion
 
 - [Google Gemini](https://ai.google.dev/)
 - [OpenAI ChatGPT](https://help.openai.com/en/) 
-- [Krish Naik](https://www.youtube.com/user/krishnaik06) 
