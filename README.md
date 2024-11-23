@@ -23,9 +23,6 @@
   <a href="#contributing">Contributing</a> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/siddharthsky/ai-video-summarizer-and-timestamp-generator-LLM-p"><img src="https://raw.githubusercontent.com/siddharthsky/google-gemini-yt-video-summarizer-AI-p/main/research/demo3.gif" alt="Usage Demo"></a>
-</p>
 
 
 
